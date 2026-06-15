@@ -38,7 +38,7 @@
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ MANNEPU AKHILESH) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akhilesh Mannepu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannepuakhilesh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannepuakhilesh/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MannepuAkhilesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannepuakhilesh@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
